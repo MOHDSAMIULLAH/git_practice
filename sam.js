@@ -1,1 +1,1 @@
-console.log("sam.js!");
+console.log("sam");
